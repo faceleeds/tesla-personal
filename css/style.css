@@ -233,7 +233,7 @@ p.middle-descr {
     line-height: 32px;
     cursor: pointer;
     transition: 0.5s;
-    padding: 10px 80px;
+    padding: 10px 60px;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
     outline: none;
   }
